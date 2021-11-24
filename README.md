@@ -1,8 +1,11 @@
 # bookbuster
 
 Integrantes: 
+
 Bardin, Ignacio 
+
 Bulich, Yamila 
+
 Lepez, Martin
 
 npx sequelize model:generate --name Category --attributes name:string
